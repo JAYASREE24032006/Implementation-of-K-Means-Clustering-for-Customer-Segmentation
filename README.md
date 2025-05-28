@@ -1,4 +1,6 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+### Name : R.Jayasree
+### R.No : 212223040074
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
